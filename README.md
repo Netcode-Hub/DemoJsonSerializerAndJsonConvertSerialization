@@ -1,4 +1,6 @@
 # Mastering JSON in .NET: Serialization and Deserialization with JsonConvert and JsonSerializer
+![serialization](https://github.com/Netcode-Hub/DemoJsonSerializerAndJsonConvertSerialization/assets/110794348/8c90582e-6dc5-46a1-89fe-f52fa7227139)
+
 Imagine you have a complex object in your application, and you need to save its state or share it across different platforms or systems. How do you convert this object into a format that's easily storable or transmittable? Enter serialization.
 Serialization is like packing your data into a neat little suitcase – it's the process of converting an object into a format that can be easily stored or transmitted. And when it's time to use that data again, you simply unpack it – that's deserialization.
 In the .NET world, two incredible tools make this process a breeze: JsonConvert and JsonSerializer. Whether you're working with small projects or large-scale applications, these tools help you handle JSON data with ease and efficiency
