@@ -1,0 +1,6 @@
+@DemoJsonSerilizer_ConvertSerialization_HostAddress = http://localhost:5296
+
+GET {{DemoJsonSerilizer_ConvertSerialization_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
